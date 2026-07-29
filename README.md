@@ -116,8 +116,6 @@ spark/
 │   ├── Spark_A2C.ipynb            # A2C training notebook
 │   ├── customEnv_DQN.ipynb        # DQN experiments
 │   └── logs/                      # TensorBoard training logs
-├── reports/
-│   └── Assignment-3-PartE-Report.pdf  # Detailed technical report
 └── requirements.txt
 ```
 
@@ -207,8 +205,6 @@ Models are saved to `notebooks/output/spark/models/` during training.
 ### A2C Model (Baseline)
 - Alternative actor-critic approach
 - Faster training with slightly lower performance
-
-*See `reports/Assignment-3-PartE-Report.pdf` for detailed performance analysis and ablation studies.*
 
 ## Dataset
 
